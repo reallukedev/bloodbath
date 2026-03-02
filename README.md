@@ -8,7 +8,7 @@
 
 | Stat | Value |
 |------|-------|
-| **Total Objects** | 24742 |
+| **Total Objects** | 24741 |
 | **Starting Speed** | Half |
 | **Starting Gamemode** | Ship |
 | **Starting Size** | Normal |
@@ -25,7 +25,7 @@
 
 | Category | Count | % |
 |----------|------:|--:|
-| Other | 13047 | 52.7% |
+| Other | 13046 | 52.7% |
 | Pulsing Objects | 5267 | 21.3% |
 | Decoration | 4838 | 19.6% |
 | Triggers | 543 | 2.2% |
@@ -43,7 +43,7 @@
 |--------|-------|
 | **Trigger Count** | 543 |
 | **Groups Used** | 0 |
-| **Raw Level Size** | 828.4 KB |
+| **Raw Level Size** | 828.3 KB |
 
 ---
 *Managed by GDGit*
