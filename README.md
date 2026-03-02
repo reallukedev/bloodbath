@@ -2,6 +2,8 @@
 
 > The good version also this is the description of the level btw
 
+![Level Minimap](minimap.svg)
+
 ---
 
 ## Level Statistics
