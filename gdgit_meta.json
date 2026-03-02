@@ -1,7 +1,7 @@
 {
-    "id": "1",
-    "parentId": "",
-    "timestamp": "2026-03-01 16:12:36",
-    "levelName": "",
-    "levelDescription": ""
+    "id": "2",
+    "parentId": "1",
+    "timestamp": "2026-03-01 16:18:06",
+    "levelName": "Bloodbath but good",
+    "levelDescription": "VGhlIGdvb2QgdmVyc2lvbg==\u0000"
 }
