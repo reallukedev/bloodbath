@@ -8,7 +8,7 @@
 
 | Stat | Value |
 |------|-------|
-| **Total Objects** | 24801 |
+| **Total Objects** | 24742 |
 | **Starting Speed** | Half |
 | **Starting Gamemode** | Ship |
 | **Starting Size** | Normal |
@@ -25,15 +25,15 @@
 
 | Category | Count | % |
 |----------|------:|--:|
-| Other | 13047 | 52.6% |
-| Pulsing Objects | 5267 | 21.2% |
-| Decoration | 4838 | 19.5% |
-| Triggers | 598 | 2.4% |
+| Other | 13047 | 52.7% |
+| Pulsing Objects | 5267 | 21.3% |
+| Decoration | 4838 | 19.6% |
+| Triggers | 543 | 2.2% |
 | Blocks | 443 | 1.8% |
-| Slopes | 322 | 1.3% |
+| Slopes | 319 | 1.3% |
 | 2.0+ Objects | 134 | 0.5% |
 | Spikes | 68 | 0.3% |
-| Pads & Orbs | 55 | 0.2% |
+| Pads & Orbs | 54 | 0.2% |
 | Animated Objects | 15 | 0.1% |
 | Portals | 14 | 0.1% |
 
@@ -41,9 +41,9 @@
 
 | Detail | Value |
 |--------|-------|
-| **Trigger Count** | 598 |
+| **Trigger Count** | 543 |
 | **Groups Used** | 0 |
-| **Raw Level Size** | 830.9 KB |
+| **Raw Level Size** | 828.4 KB |
 
 ---
 *Managed by GDGit*
